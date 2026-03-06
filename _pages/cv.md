@@ -39,6 +39,10 @@ Conference
 {% endif %}
 {% endfor %}
 
+Academic Service
+======
+I am an anonymous reviewer for *Journal of the American Statistical Association* and *Electronic Journal of Statistics*.
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
