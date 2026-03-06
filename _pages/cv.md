@@ -23,7 +23,7 @@ Preprints
 {% endif %}
 {% endfor %}
 
-Journal
+Journal Articles
 ======
 {% for post in site.publications reversed %}
 {% if post.category == "manuscripts" %}
