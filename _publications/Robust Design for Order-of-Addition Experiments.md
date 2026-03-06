@@ -6,7 +6,7 @@ category: manuscripts
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-11-12
 venue: 'Technometrics'
-authors: **Yiran Huang**, Jianfeng Yang
+authors: Yiran Huang, Jianfeng Yang
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 link: 'https://doi.org/10.1080/00401706.2024.2407317'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
