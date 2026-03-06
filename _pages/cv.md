@@ -31,14 +31,6 @@ Journal
 {% endif %}
 {% endfor %}
 
-#Conference
-#======
-#{% for post in site.publications reversed %}
-#{% if post.category == "conferences" %}
-#{% include archive-single-cv.html %}
-#{% endif %}
-#{% endfor %}
-
 Academic Service
 ======
 I am an anonymous reviewer for *Journal of the American Statistical Association* and *Electronic Journal of Statistics*.
