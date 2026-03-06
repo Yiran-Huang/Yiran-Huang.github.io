@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D candidate in statistics, Nankai University, 2022-2027 (expected)
-* B.S. in mathmatics, Nankai University, 2018-2022
+* Ph.D Candidate in Statistics, Nankai University, 2022-2027 (expected)
+* B.S. in Mathmatics, Nankai University, 2018-2022
 
 Work experience
 ======
