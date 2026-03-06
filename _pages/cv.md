@@ -19,12 +19,27 @@ Education
 
 Preprints
 ======
+{% for post in site.publications reversed %}
+{% if post.category == "preprints" %}
+{% include archive-single-cv.html %}
+{% endif %}
+{% endfor %}
 
-Publications
+Journal
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% for post in site.publications reversed %}
+{% if post.category == "manuscripts" %}
+{% include archive-single-cv.html %}
+{% endif %}
+{% endfor %}
+
+Conference
+======
+{% for post in site.publications reversed %}
+{% if post.category == "conferences" %}
+{% include archive-single-cv.html %}
+{% endif %}
+{% endfor %}
 
 Service and leadership
 ======
