@@ -48,7 +48,7 @@
           <p style="margin:2px 0;"><i>Preprint</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
         {% else %}
           {% if post.onlyaccept %}
-            <p style="margin:2px 0;">Accepted by <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+            <p style="margin:2px 0;">Accepted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
           {% else %}
             <p style="margin:2px 0;">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
           {% endif %}
