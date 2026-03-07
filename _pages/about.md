@@ -22,6 +22,10 @@ Research Interests
 * Online Decision-Making and Economics: matching markets, incentives and social welfare, contract theory, applications to LLM routing.
 * Data-Efficient Machine Learning: active learning, experimental design.
 
+Services
+======
+I am an anonymous reviewer for *Journal of the American Statistical Association* and *Electronic Journal of Statistics*.
+
 
 
 
