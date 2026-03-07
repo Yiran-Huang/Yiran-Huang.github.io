@@ -23,7 +23,7 @@ repository               : "Yiran-Huang/Yiran-Huang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_photo.JPG"
   name             : "Yiran Huang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Statistics and Data Science at Nankai University, working on statistical matching, online decision-making, and data-efficient machine learning."
