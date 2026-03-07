@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+I am a fourth-year Ph.D. candidate in the School of Statistics and Data Science at Nankai University. My research focuses on statistical matching and online decision-making. I am also interested in applying these methods to practical applications such as recommendation systems and large language models. Another research focus is active learning.
+
 Education
 ======
 * Ph.D. Candidate in Statistics, Nankai University, 2022.09–2027.06 (expected), Supervisor: Prof. Jianfeng Yang  
