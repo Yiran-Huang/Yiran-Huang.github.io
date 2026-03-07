@@ -9,6 +9,8 @@ redirect_from:
 
 I am a fourth-year Ph.D. candidate in the School of Statistics and Data Science at Nankai University. I received my B.S. degree from the School of Mathematical Sciences at Nankai University in 2022. From March 2025 to March 2026, I was a visiting scholar at the University of California, Irvine.
 
+My research focuses on statistical matching, with an emphasis on designing online matching mechanisms that respect user incentives, provide statistical guarantees, and support better decision-making. I am also interested in applying these methods to practical applications such as recommendation systems and large language models. Another area of focus is active learning, which aims to improve learning efficiency by incorporating human annotation under limited labeling budgets.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
