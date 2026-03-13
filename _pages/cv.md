@@ -40,4 +40,4 @@ Journal Articles
 
 Academic Service
 ======
-I am an anonymous reviewer for *Journal of the American Statistical Association* and *Electronic Journal of Statistics*.
+I serve as an anonymous reviewer for *Journal of the American Statistical Association*, *Electronic Journal of Statistics*, and *Statistical Learning and Data Science*.
