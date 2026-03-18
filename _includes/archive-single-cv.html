@@ -35,6 +35,7 @@
           {{ post.freestyle }}
         {% else %}
           <i>Preprint</i>, {{ post.date | date: "%Y" }}
+        {% endif %}
       {% else %}
         {% if post.freestyle %}
           {{ post.freestyle }}
