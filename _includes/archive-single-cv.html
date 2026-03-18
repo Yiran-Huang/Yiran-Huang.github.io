@@ -31,7 +31,10 @@
       {{ post.title }}<br>
       {% if post.authors %}{{ post.authors }}<br>{% endif %}
       {% if post.category == "preprints" %}
-        <i>Preprint</i>, {{ post.date | date: "%Y" }}
+        {% if post.freestyle %}
+          {{ post.freestyle }}
+        {% else %}
+          <i>Preprint</i>, {{ post.date | date: "%Y" }}
       {% else %}
         {% if post.freestyle %}
           {{ post.freestyle }}
