@@ -49,10 +49,9 @@
         {% else %}
           {% if post.freestyle %}
             <p style="margin:2px 0;">Free style</p>
-          {% elsif post.volumn %}
+          {% elsif post.volume %}
             <p style="margin:2px 0;">
-            Published in <i>{{ post.venue }}</i>{% if post.volumn %}, {{ post.volumn }}{% endif %}{% if post.page %}, {{ post.page }}{% endif %}
-            </p>
+            Published in <i>{{ post.venue }}</i>, vol. {{ post.volume }}{% if post.page %}, pp. {{ post.page }}{% endif %}</p>
           {% else %}
             <p style="margin:2px 0;">Accepted to <i>{{ post.venue }}</i></p>
           {% endif %}
