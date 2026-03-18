@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 #permalink: 'https://doi.org/10.1080/00401706.2024.2407317'
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-11-12
+date: 2025-01-02
 venue: 'Technometrics'
 volumn: 67
 page: 168-176
