@@ -45,7 +45,11 @@
         <p style="margin:2px 0;">{{ post.authors | markdownify | remove: '<p>' | remove: '</p>' }}</p>
       {% endif %}
       {% if post.category == "preprints" %}
-        <p style="margin:2px 0;"><i>Preprint</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+        {% if post.freestyle %}
+          <p style="margin:2px 0;">Free style</p>
+        {% else %}
+          <p style="margin:2px 0;"><i>Preprint</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+        {% endif %}
       {% else %}
         {% if post.freestyle %}
           <p style="margin:2px 0;">Free style</p>
