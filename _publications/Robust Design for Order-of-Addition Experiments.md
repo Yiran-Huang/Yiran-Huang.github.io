@@ -6,7 +6,7 @@ category: manuscripts
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-01-02
 venue: 'Technometrics'
-volumn: 67
+volume: 67
 page: 168-176
 #freestyle: 
 authors: <strong>Yiran Huang</strong>, Jianfeng Yang
