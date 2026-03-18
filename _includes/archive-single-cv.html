@@ -31,9 +31,15 @@
       {{ post.title }}<br>
       {% if post.authors %}{{ post.authors }}<br>{% endif %}
       {% if post.category == "preprints" %}
-      <i>Preprint</i>, {{ post.date | date: "%Y" }}
+        <i>Preprint</i>, {{ post.date | date: "%Y" }}
       {% else %}
-      <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
+        {% if post.freestyle %}
+          {{ post.freestyle }}
+        {% elsif post.volume %}
+          <i>{{ post.venue }}</i>, vol. {{ post.volume }}{% if post.page %}, pp. {{ post.page }}{% endif %}, {{ post.date | date: "%Y" }}
+        {% else %}
+          Accepted to <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
+        {% endif %}
       {% endif %}
       </p>
     </p>
