@@ -9,7 +9,7 @@ venue: 'Technometrics'
 volume: 67
 page: 168-176
 #freestyle: 
-authors: <strong>Yiran Huang</strong>, Jianfeng Yang
+authors: <strong>Yiran Huang</strong>, Jianfeng Yang<sup>*</sup>
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 link: 'https://doi.org/10.1080/00401706.2024.2407317'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
