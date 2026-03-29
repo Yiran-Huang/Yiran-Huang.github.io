@@ -1,11 +1,11 @@
 ---
 title: "Efficient Human-in-the-Loop Active Learning: A Novel Framework for Data Labeling in AI Systems"
 collection: publications
-category: preprints
+category: manuscript
 #permalink: /publication/2010-10-01-paper-title-number-2
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-10-01
-#venue: 'Journal 1'
+venue: 'Journal of the American Statistical Association'
 authors: <strong>Yiran Huang</strong><sup>†</sup>, Jianfeng Yang<sup>†</sup>, Haoda Fu<sup>*</sup>
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'https://academicpages.github.io/files/paper2.pdf'
