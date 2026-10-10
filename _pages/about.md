@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. candidate in the School of Statistics and Data Science at Nankai University. I received my B.S. degree from the School of Mathematical Sciences at Nankai University in 2022. From February 2025 to February 2026, I was a visiting scholar at the University of California, Irvine.
+I am a fifth-year Ph.D. candidate in the School of Statistics and Data Science at Nankai University. I received my B.S. degree from the School of Mathematical Sciences at Nankai University in 2022. From February 2025 to February 2026, I was a visiting scholar at the University of California, Irvine.
 
-My research focuses on statistical matching, with an emphasis on designing online matching mechanisms that respect user incentives, provide statistical guarantees, and support better decision-making. I am also interested in applying these methods to practical applications such as recommendation systems and large language models. Another area of focus is active learning, which aims to improve learning efficiency by incorporating human annotation under limited labeling budgets.
+My research focuses on statistical matching, with an emphasis on designing online matching mechanisms that respect user incentives, provide statistical guarantees, and support better decision-making. I am also interested in applying these methods to practical applications such as large language models. Another area of focus is active learning, which aims to improve learning efficiency by incorporating human annotation under limited labeling budgets.
 
 Education
 ======
@@ -19,7 +19,7 @@ Education
 
 Research Interests
 ======
-* Online Decision-Making and Economics: matching markets, incentives and social welfare, contract theory, applications to LLM routing.
+* Online Decision-Making: matching markets, incentives, applications to LLM routing.
 * Data-Efficient Machine Learning: active learning, experimental design.
 
 Services
