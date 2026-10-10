@@ -13,9 +13,9 @@ I am a fifth-year Ph.D. candidate in the School of Statistics and Data Science a
 
 Education
 ======
-* Ph.D. Candidate in Statistics, Nankai University, 2022.09–2027.06 (expected), Supervisor: Prof. Jianfeng Yang  
-* Visiting Scholar, University of California, Irvine, 2025.02–2026.02, Supervisor: Prof. Annie Qu.<br> I also work with Prof. Xiaowu Dai from the University of California, Los Angeles.  
-* B.S. in Mathematics, Nankai University, 2018.09–2022.06
+* Ph.D. Candidate in Statistics, Nankai University, September 2022-present (expected June 2027), Supervisor: Prof. Jianfeng Yang  
+* Visiting Scholar, University of California, Irvine, February 2025-February 2026, Supervisor: Prof. Annie Qu.<br> I also work with Prof. Xiaowu Dai from the University of California, Los Angeles.  
+* B.S. in Mathematics, Nankai University, September 2018-June 2022.
 
 Research Interests
 ======
