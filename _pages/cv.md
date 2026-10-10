@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a fourth-year Ph.D. candidate in the School of Statistics and Data Science at Nankai University, working on statistical matching, online decision-making, and data-efficient machine learning.
+I am a fifth-year Ph.D. candidate in the School of Statistics and Data Science at Nankai University, working on statistical matching, online decision-making, and data-efficient machine learning.
 
 Education
 ======
@@ -19,7 +19,7 @@ Education
 
 Research Interests
 ======
-* Online Decision-Making and Economics: matching markets, incentives and social welfare, contract theory, applications to LLM routing.
+* Online Decision-Making: matching markets, incentives, applications to LLM routing.
 * Data-Efficient Machine Learning: active learning, experimental design.
 
 Preprints
